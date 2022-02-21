@@ -23,6 +23,13 @@
   "sharing": 4,
   "rent": 10000
  },
+    {
+  "id": "102",
+  "url": "https://images.hindustantimes.com/img/2021/07/22/1600x900/Sarpatta.jpg_1626935577518_1626935603858.JPG",
+  "name": "Non-Ac",
+  "sharing": 4,
+  "rent": 10000
+ },
  
 ]
 }
