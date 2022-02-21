@@ -1,1 +1,34 @@
 
+{ 
+  "movies":
+  [
+ {
+  "id": "100",
+  "url": "https://m.media-amazon.com/images/M/MV5BOGVjYmM0ZWEtNTFjNi00MWZjLTk3OTItMmFjMDAzZWU1ZDVjXkEyXkFqcGdeQXVyMTI2Mzk1ODg0._V1_.jpg",
+  "name": "Ac",
+  "sharing": 4,
+  "rent": 12000
+ },
+ {
+  "id": "101",
+  "url": "https://streamingdue.com/wp-content/uploads/2021/11/Jai-Bhim.jpg",
+  "name": "Ac",
+  "sharing": 3,
+  "rent": 13000
+ },
+ {
+  "id": "102",
+  "url": "https://images.hindustantimes.com/img/2021/07/22/1600x900/Sarpatta.jpg_1626935577518_1626935603858.JPG",
+  "name": "Non-Ac",
+  "sharing": 4,
+  "rent": 10000
+ },
+ {
+  "id": "103",
+  "url": "https://divieditz.com/wp-content/uploads/2021/05/Netrikann-2021-Movie-updates.jpg",
+  "name": "Ac",
+  "sharing": 2,
+  "rent": 15000
+ }
+]
+}
